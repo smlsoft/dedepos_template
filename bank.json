@@ -1,6 +1,7 @@
 [
   {
     "code": "001",
+    "logo":"https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/bank/ktb.png",
     "names": [
       {"code": "th", "name": "กรุงไทย"},
       {"code": "en", "name": "KTB"},
@@ -9,6 +10,7 @@
   },
   {
     "code": "002",
+    "logo":"https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/bank/ktb.png",
     "names": [
       {"code": "th", "name": "ทหารไทยธนาชาติ"},
       {"code": "en", "name": "TTB"},
