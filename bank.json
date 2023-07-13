@@ -10,7 +10,7 @@
   },
   {
     "code": "002",
-    "logo":"https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/bank/ktb.png",
+    "logo":"https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/bank/ttb.png",
     "names": [
       {"code": "th", "name": "ทหารไทยธนาชาติ"},
       {"code": "en", "name": "TTB"},
