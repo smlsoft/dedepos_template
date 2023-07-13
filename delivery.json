@@ -1,0 +1,27 @@
+[
+  {
+    "code": "foodpanda",
+    "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/delivery/foodpanda.png",
+    "name": "FoodPanda"
+  },
+  {
+    "code": "grab",
+    "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/delivery/grab.png",
+    "name": "GRAB"
+  },
+  {
+    "code": "line",
+    "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/delivery/line.png",
+    "name": "LineMan"
+  },
+  {
+    "code": "shopee",
+    "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/delivery/shopee.png",
+    "name": "Shopee"
+  },
+  {
+    "code": "lalamove",
+    "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/delivery/lalamove.png",
+    "name": "LalaMove"
+  }
+]

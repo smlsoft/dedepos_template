@@ -1,0 +1,27 @@
+[
+  {
+    "code": "lugent",
+    "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/wallet/lugent.png",
+    "name": "Lugent"
+  },
+  {
+    "code": "truemoney",
+    "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/wallet/truemoney.png",
+    "name": "TrueMoney"
+  },
+  {
+    "code": "shopee",
+    "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/wallet/shopee.png",
+    "name": "ShopeePay"
+  },
+  {
+    "code": "line",
+    "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/wallet/line.png",
+    "name": "LinePay"
+  },
+  {
+    "code": "dolfin",
+    "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/wallet/dolfin.png",
+    "name": "Dolfin"
+  }
+]
