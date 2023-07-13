@@ -1,6 +1,18 @@
 [
   {
-    "code":"001",
-    "name":"KTB"
+    "code": "001",
+    "names": [
+      {"code": "th", "name": "กรุงไทย"},
+      {"code": "en", "name": "KTB"},
+      {"code": "zh", "name": "ZH"}
+    ]
+  },
+  {
+    "code": "002",
+    "names": [
+      {"code": "th", "name": "ทหารไทยธนาชาติ"},
+      {"code": "en", "name": "TTB"},
+      {"code": "zh", "name": "TTB"}
+    ]
   }
 ]
