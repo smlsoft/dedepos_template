@@ -1,6 +1,6 @@
 [
   {
-    "code": "ktb",
+    "code": "KTB",
     "logo":"https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/bank/ktb.png",
     "names": [
       {"code": "th", "name": "กรุงไทย"},
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "code": "ttb",
+    "code": "TTB",
     "logo":"https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/bank/ttb.png",
     "names": [
       {"code": "th", "name": "ทหารไทยธนาชาติ"},
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "code": "bbl",
+    "code": "BBL",
     "logo":"https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/bank/bbl.png",
     "names": [
       {"code": "th", "name": "กรุงเทพ"},
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "code": "kbank",
+    "code": "KBANK",
     "logo":"https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/bank/kbank.png",
     "names": [
       {"code": "th", "name": "กสิกรไทย"},
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "code": "scb",
+    "code": "SCB",
     "logo":"https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/bank/scb.png",
     "names": [
       {"code": "th", "name": "ไทยพาณิชย์"},
@@ -45,25 +45,16 @@
     ]
   },
   {
-    "code": "krungsri",
+    "code": "KRUNGSRI",
     "logo":"https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/bank/krungsri.png",
     "names": [
-      {"code": "th", "name": "ไทยพาณิชย์"},
+      {"code": "th", "name": "กรุงศรี"},
       {"code": "en", "name": "KRUNGSRI"},
       {"code": "zh", "name": "KRUNGSRI"}
     ]
   },
   {
-    "code": "gsb",
-    "logo":"https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/bank/gsb.png",
-    "names": [
-      {"code": "th", "name": "ออมสิน"},
-      {"code": "en", "name": "GSB"},
-      {"code": "zh", "name": "GSB"}
-    ]
-  },
-  {
-    "code": "gsb",
+    "code": "GSB",
     "logo":"https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/bank/gsb.png",
     "names": [
       {"code": "th", "name": "ออมสิน"},

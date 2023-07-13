@@ -1,26 +1,26 @@
 [
   {
-    "code": "foodpanda",
+    "code": "FOODPANDA",
     "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/delivery/foodpanda.png",
     "name": "FoodPanda"
   },
   {
-    "code": "grab",
+    "code": "GRAB",
     "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/delivery/grab.png",
-    "name": "GRAB"
+    "name": "Grab"
   },
   {
-    "code": "line",
+    "code": "LINE",
     "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/delivery/line.png",
     "name": "LineMan"
   },
   {
-    "code": "shopee",
+    "code": "SHOPEE",
     "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/delivery/shopee.png",
     "name": "Shopee"
   },
   {
-    "code": "lalamove",
+    "code": "LALAMOVE",
     "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/delivery/lalamove.png",
     "name": "LalaMove"
   }
