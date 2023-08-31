@@ -1,0 +1,77 @@
+[
+    {
+        "code": "PROMPTPAY",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/promptpay.jpeg",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "พร้อมเพย์"
+            },
+            {
+                "code": "en",
+                "name": "Promptpay"
+            }
+        ],
+        "qrtype": 100
+    },
+    {
+        "code": "LUJENT",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/lugent.jpeg",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "ลูเจ้น พร้อมเพย์"
+            },
+            {
+                "code": "en",
+                "name": "Lugent PromptPay"
+            }
+        ],
+        "qrtype": 110
+    },
+    {
+        "code": "ALIPAY",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/alipay.jpeg",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "อาลีเพย์"
+            },
+            {
+                "code": "en",
+                "name": "Ali Pay"
+            }
+        ],
+        "qrtype": 111
+    },
+    {
+        "code": "TRUEMONEY",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/truemoney.jpeg",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "ทรูมันนี่"
+            },
+            {
+                "code": "en",
+                "name": "True Money"
+            }
+        ],
+        "qrtype": 112
+    },
+    {
+        "code": "LINEPAY",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/linepay.jpeg",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "ไลน์เพย์"
+            },
+            {
+                "code": "en",
+                "name": "Line Pay"
+            }
+        ],
+        "qrtype": 113
+    }
+]
