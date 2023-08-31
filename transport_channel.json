@@ -1,0 +1,22 @@
+[
+  {
+    "code": "FLASH",
+    "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/transport_channel/flash.png",
+    "name": "Flash Express"
+  },
+  {
+    "code": "JT",
+    "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/transport_channel/jt.jpeg",
+    "name": "J&T Express"
+  },
+  {
+    "code": "KERRY",
+    "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/transport_channel/kerry.jpeg",
+    "name": "Kerry Express"
+  },
+  {
+    "code": "THAIPOST",
+    "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/transport_channel/thaipost.jpg",
+    "name": "ไปรษณีย์ไทย"
+  }
+]
