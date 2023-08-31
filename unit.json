@@ -1,0 +1,1445 @@
+[
+    {
+        "code": "PCE",
+        "names": [
+            {
+                "code": "th",
+                "name": "ชิ้น"
+            },
+            {
+                "code": "en",
+                "name": "Piece"
+            }
+        ]
+    },
+    {
+        "code": "DZN",
+        "names": [
+            {
+                "code": "th",
+                "name": "โหล "
+            },
+            {
+                "code": "en",
+                "name": "dozen"
+            }
+        ]
+    },
+    {
+        "code": "PCK",
+        "names": [
+            {
+                "code": "th",
+                "name": "ห่อ "
+            },
+            {
+                "code": "en",
+                "name": "pack "
+            }
+        ]
+    },
+    {
+        "code": "CYL",
+        "names": [
+            {
+                "code": "th",
+                "name": "กระบอก"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "CN",
+        "names": [
+            {
+                "code": "th",
+                "name": "กระป๋อง"
+            },
+            {
+                "code": "en",
+                "name": "CAN"
+            }
+        ]
+    },
+    {
+        "code": "SCK",
+        "names": [
+            {
+                "code": "th",
+                "name": "กระสอบ"
+            },
+            {
+                "code": "en",
+                "name": "SACK"
+            }
+        ]
+    },
+    {
+        "code": "GRM",
+        "names": [
+            {
+                "code": "th",
+                "name": "กรัม"
+            },
+            {
+                "code": "en",
+                "name": "GRAM"
+            }
+        ]
+    },
+    {
+        "code": "BOX",
+        "names": [
+            {
+                "code": "th",
+                "name": "กล่อง"
+            },
+            {
+                "code": "en",
+                "name": "CARTON"
+            }
+        ]
+    },
+    {
+        "code": "GRP",
+        "names": [
+            {
+                "code": "th",
+                "name": "กลุ่ม"
+            },
+            {
+                "code": "en",
+                "name": "GROUP"
+            }
+        ]
+    },
+    {
+        "code": "LMP",
+        "names": [
+            {
+                "code": "th",
+                "name": "ก้อน"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "KG",
+        "names": [
+            {
+                "code": "th",
+                "name": "กิโลกรัม"
+            },
+            {
+                "code": "en",
+                "name": "KILOGRAM"
+            }
+        ]
+    },
+    {
+        "code": "KM",
+        "names": [
+            {
+                "code": "th",
+                "name": "กิโลเมตร"
+            },
+            {
+                "code": "en",
+                "name": "KILOMETER"
+            }
+        ]
+    },
+    {
+        "code": "KRS",
+        "names": [
+            {
+                "code": "th",
+                "name": "กุรุส"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "GSM",
+        "names": [
+            {
+                "code": "th",
+                "name": "แกรม"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "GAL",
+        "names": [
+            {
+                "code": "th",
+                "name": "แกลลอน"
+            },
+            {
+                "code": "en",
+                "name": "GALLON"
+            }
+        ]
+    },
+    {
+        "code": "COI",
+        "names": [
+            {
+                "code": "th",
+                "name": "ขด"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "BTL",
+        "names": [
+            {
+                "code": "th",
+                "name": "ขวด"
+            },
+            {
+                "code": "en",
+                "name": "BOTTLE"
+            }
+        ]
+    },
+    {
+        "code": "MRK",
+        "names": [
+            {
+                "code": "th",
+                "name": "ขีด"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "TIM",
+        "names": [
+            {
+                "code": "th",
+                "name": "ครั้ง"
+            },
+            {
+                "code": "en",
+                "name": "TIME"
+            }
+        ]
+    },
+    {
+        "code": "CRT",
+        "names": [
+            {
+                "code": "th",
+                "name": "คาร์ตัน"
+            },
+            {
+                "code": "en",
+                "name": "CARTON"
+            }
+        ]
+    },
+    {
+        "code": "QRT",
+        "names": [
+            {
+                "code": "th",
+                "name": "ควอร์ท"
+            },
+            {
+                "code": "en",
+                "name": "QUART"
+            }
+        ]
+    },
+    {
+        "code": "STK",
+        "names": [
+            {
+                "code": "th",
+                "name": "คัน"
+            },
+            {
+                "code": "en",
+                "name": "CAR"
+            }
+        ]
+    },
+    {
+        "code": "BAR",
+        "names": [
+            {
+                "code": "th",
+                "name": "คาน"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "CUB",
+        "names": [
+            {
+                "code": "th",
+                "name": "คิว"
+            },
+            {
+                "code": "en",
+                "name": "CUBIC METRE"
+            }
+        ]
+    },
+    {
+        "code": "PR",
+        "names": [
+            {
+                "code": "th",
+                "name": "คู่"
+            },
+            {
+                "code": "en",
+                "name": "PAIR"
+            }
+        ]
+    },
+    {
+        "code": "MAC",
+        "names": [
+            {
+                "code": "th",
+                "name": "เครื่อง"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "JOB",
+        "names": [
+            {
+                "code": "th",
+                "name": "งาน"
+            },
+            {
+                "code": "en",
+                "name": "JOB"
+            }
+        ]
+    },
+    {
+        "code": "PRD",
+        "names": [
+            {
+                "code": "th",
+                "name": "งวด"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "PNT",
+        "names": [
+            {
+                "code": "th",
+                "name": "จุด"
+            },
+            {
+                "code": "en",
+                "name": "POINT"
+            }
+        ]
+    },
+    {
+        "code": "BQT",
+        "names": [
+            {
+                "code": "th",
+                "name": "ช่อ"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "SHF",
+        "names": [
+            {
+                "code": "th",
+                "name": "ชั้น"
+            },
+            {
+                "code": "en",
+                "name": "SHELF"
+            }
+        ]
+    },
+    {
+        "code": "HR",
+        "names": [
+            {
+                "code": "th",
+                "name": "ชั่วโมง"
+            },
+            {
+                "code": "en",
+                "name": "HOUR"
+            }
+        ]
+    },
+    {
+        "code": "SET",
+        "names": [
+            {
+                "code": "th",
+                "name": "ชุด"
+            },
+            {
+                "code": "en",
+                "name": "SET"
+            }
+        ]
+    },
+    {
+        "code": "ENV",
+        "names": [
+            {
+                "code": "th",
+                "name": "ซอง"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "CM",
+        "names": [
+            {
+                "code": "th",
+                "name": "เซนติเมตร"
+            },
+            {
+                "code": "en",
+                "name": "CENTIMETER"
+            }
+        ]
+    },
+    {
+        "code": "UEG",
+        "names": [
+            {
+                "code": "th",
+                "name": "ดวง"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "UFL",
+        "names": [
+            {
+                "code": "th",
+                "name": "ดอก"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "DOL",
+        "names": [
+            {
+                "code": "th",
+                "name": "ดอลล่าร์"
+            },
+            {
+                "code": "en",
+                "name": "DOLLAR"
+            }
+        ]
+    },
+    {
+        "code": "HND",
+        "names": [
+            {
+                "code": "th",
+                "name": "ด้าม"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "MON",
+        "names": [
+            {
+                "code": "th",
+                "name": "เดือน"
+            },
+            {
+                "code": "en",
+                "name": "MONTH"
+            }
+        ]
+    },
+    {
+        "code": "TRE",
+        "names": [
+            {
+                "code": "th",
+                "name": "ต้น"
+            },
+            {
+                "code": "en",
+                "name": "TON"
+            }
+        ]
+    },
+    {
+        "code": "SC",
+        "names": [
+            {
+                "code": "th",
+                "name": "ตร.ซม."
+            },
+            {
+                "code": "en",
+                "name": "SQUARE CENTIMETER"
+            }
+        ]
+    },
+    {
+        "code": "SQI",
+        "names": [
+            {
+                "code": "th",
+                "name": "ตร.นิ้ว"
+            },
+            {
+                "code": "en",
+                "name": "SQUARE INCH"
+            }
+        ]
+    },
+    {
+        "code": "SF",
+        "names": [
+            {
+                "code": "th",
+                "name": "ตร.ฟุต"
+            },
+            {
+                "code": "en",
+                "name": "SQUARE FEET"
+            }
+        ]
+    },
+    {
+        "code": "SM",
+        "names": [
+            {
+                "code": "th",
+                "name": "ตร.ม."
+            },
+            {
+                "code": "en",
+                "name": "SQUARE METER"
+            }
+        ]
+    },
+    {
+        "code": "CTR",
+        "names": [
+            {
+                "code": "th",
+                "name": "ตลับ"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "TON",
+        "names": [
+            {
+                "code": "th",
+                "name": "ตัน"
+            },
+            {
+                "code": "en",
+                "name": "TON"
+            }
+        ]
+    },
+    {
+        "code": "ITM",
+        "names": [
+            {
+                "code": "th",
+                "name": "ตัว"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "CAB",
+        "names": [
+            {
+                "code": "th",
+                "name": "ตู้"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "CUP",
+        "names": [
+            {
+                "code": "th",
+                "name": "ถ้วย"
+            },
+            {
+                "code": "en",
+                "name": "CUP"
+            }
+        ]
+    },
+    {
+        "code": "TNK",
+        "names": [
+            {
+                "code": "th",
+                "name": "ถัง"
+            },
+            {
+                "code": "en",
+                "name": "TANK"
+            }
+        ]
+    },
+    {
+        "code": "TRY",
+        "names": [
+            {
+                "code": "th",
+                "name": "ถาด"
+            },
+            {
+                "code": "en",
+                "name": "TRAY"
+            }
+        ]
+    },
+    {
+        "code": "BAG",
+        "names": [
+            {
+                "code": "th",
+                "name": "ถุง"
+            },
+            {
+                "code": "en",
+                "name": "BAG"
+            }
+        ]
+    },
+    {
+        "code": "ROW",
+        "names": [
+            {
+                "code": "th",
+                "name": "แถว"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "LOG",
+        "names": [
+            {
+                "code": "th",
+                "name": "ท่อน"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "TRP",
+        "names": [
+            {
+                "code": "th",
+                "name": "เที่ยว"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "HAN",
+        "names": [
+            {
+                "code": "th",
+                "name": "แท่ง"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "IN",
+        "names": [
+            {
+                "code": "th",
+                "name": "นิ้ว"
+            },
+            {
+                "code": "en",
+                "name": "INCH"
+            }
+        ]
+    },
+    {
+        "code": "MIN",
+        "names": [
+            {
+                "code": "th",
+                "name": "นาที"
+            },
+            {
+                "code": "en",
+                "name": "MINUTE"
+            }
+        ]
+    },
+    {
+        "code": "BLK",
+        "names": [
+            {
+                "code": "th",
+                "name": "บล็อค"
+            },
+            {
+                "code": "en",
+                "name": "BLOCK"
+            }
+        ]
+    },
+    {
+        "code": "BHT",
+        "names": [
+            {
+                "code": "th",
+                "name": "บาท"
+            },
+            {
+                "code": "en",
+                "name": "BAHT"
+            }
+        ]
+    },
+    {
+        "code": "PNL",
+        "names": [
+            {
+                "code": "th",
+                "name": "บาน"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "LAF",
+        "names": [
+            {
+                "code": "th",
+                "name": "ใบ"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "LBS",
+        "names": [
+            {
+                "code": "th",
+                "name": "ปอนด์"
+            },
+            {
+                "code": "en",
+                "name": "POUND"
+            }
+        ]
+    },
+    {
+        "code": "YR",
+        "names": [
+            {
+                "code": "th",
+                "name": "ปี"
+            },
+            {
+                "code": "en",
+                "name": "YEAR"
+            }
+        ]
+    },
+    {
+        "code": "BKT",
+        "names": [
+            {
+                "code": "th",
+                "name": "ปี๊บ"
+            },
+            {
+                "code": "en",
+                "name": "BUCKET"
+            }
+        ]
+    },
+    {
+        "code": "PFI",
+        "names": [
+            {
+                "code": "th",
+                "name": "ผืน"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "PAN",
+        "names": [
+            {
+                "code": "th",
+                "name": "แผง"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "SHT",
+        "names": [
+            {
+                "code": "th",
+                "name": "แผ่น"
+            },
+            {
+                "code": "en",
+                "name": "SHEET"
+            }
+        ]
+    },
+    {
+        "code": "LID",
+        "names": [
+            {
+                "code": "th",
+                "name": "ฝา"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "BNC",
+        "names": [
+            {
+                "code": "th",
+                "name": "พวง"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "FLD",
+        "names": [
+            {
+                "code": "th",
+                "name": "พับ"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "PAC",
+        "names": [
+            {
+                "code": "th",
+                "name": "แพ็ค"
+            },
+            {
+                "code": "en",
+                "name": "PACK"
+            }
+        ]
+    },
+    {
+        "code": "FOM",
+        "names": [
+            {
+                "code": "th",
+                "name": "ฟอง"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "FT",
+        "names": [
+            {
+                "code": "th",
+                "name": "ฟุต"
+            },
+            {
+                "code": "en",
+                "name": "FOOT"
+            }
+        ]
+    },
+    {
+        "code": "FIL",
+        "names": [
+            {
+                "code": "th",
+                "name": "แฟ้ม"
+            },
+            {
+                "code": "en",
+                "name": "FILE"
+            }
+        ]
+    },
+    {
+        "code": "ROL",
+        "names": [
+            {
+                "code": "th",
+                "name": "ม้วน"
+            },
+            {
+                "code": "en",
+                "name": "ROLL"
+            }
+        ]
+    },
+    {
+        "code": "BDL",
+        "names": [
+            {
+                "code": "th",
+                "name": "มัด"
+            },
+            {
+                "code": "en",
+                "name": "BUNDLE"
+            }
+        ]
+    },
+    {
+        "code": "GRA",
+        "names": [
+            {
+                "code": "th",
+                "name": "เม็ด"
+            },
+            {
+                "code": "en",
+                "name": "TABLET"
+            }
+        ]
+    },
+    {
+        "code": "MTR",
+        "names": [
+            {
+                "code": "th",
+                "name": "เมตร"
+            },
+            {
+                "code": "en",
+                "name": "METER"
+            }
+        ]
+    },
+    {
+        "code": "MG",
+        "names": [
+            {
+                "code": "th",
+                "name": "มิลลิกรัม"
+            },
+            {
+                "code": "en",
+                "name": "MILLIGRAM"
+            }
+        ]
+    },
+    {
+        "code": "MM",
+        "names": [
+            {
+                "code": "th",
+                "name": "มิลลิเมตร"
+            },
+            {
+                "code": "en",
+                "name": "MILLIMETER"
+            }
+        ]
+    },
+    {
+        "code": "ML",
+        "names": [
+            {
+                "code": "th",
+                "name": "มิลลิลิตร"
+            },
+            {
+                "code": "en",
+                "name": "MILLILITER"
+            }
+        ]
+    },
+    {
+        "code": "MLE",
+        "names": [
+            {
+                "code": "th",
+                "name": "ไมล์"
+            },
+            {
+                "code": "en",
+                "name": "MILE"
+            }
+        ]
+    },
+    {
+        "code": "SYS",
+        "names": [
+            {
+                "code": "th",
+                "name": "ระบบ"
+            },
+            {
+                "code": "en",
+                "name": "SYSTEM"
+            }
+        ]
+    },
+    {
+        "code": "RM",
+        "names": [
+            {
+                "code": "th",
+                "name": "รีม"
+            },
+            {
+                "code": "en",
+                "name": "REEM"
+            }
+        ]
+    },
+    {
+        "code": "CS",
+        "names": [
+            {
+                "code": "th",
+                "name": "เรื่อง"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "CC",
+        "names": [
+            {
+                "code": "th",
+                "name": "ลูกบาศก์เซนติเมตร"
+            },
+            {
+                "code": "en",
+                "name": "CUBIC CENTIMETER"
+            }
+        ]
+    },
+    {
+        "code": "CF",
+        "names": [
+            {
+                "code": "th",
+                "name": "ลบ.ฟุต"
+            },
+            {
+                "code": "en",
+                "name": "CUBIC FOOT"
+            }
+        ]
+    },
+    {
+        "code": "CM",
+        "names": [
+            {
+                "code": "th",
+                "name": "ลูกบาศก์เมตร"
+            },
+            {
+                "code": "en",
+                "name": "CUBIC METER"
+            }
+        ]
+    },
+    {
+        "code": "WHL",
+        "names": [
+            {
+                "code": "th",
+                "name": "ล้อ"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "CRT",
+        "names": [
+            {
+                "code": "th",
+                "name": "ลัง"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "LTR",
+        "names": [
+            {
+                "code": "th",
+                "name": "ลิตร"
+            },
+            {
+                "code": "en",
+                "name": "LITER"
+            }
+        ]
+    },
+    {
+        "code": "BAL",
+        "names": [
+            {
+                "code": "th",
+                "name": "ลูก"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "VOL",
+        "names": [
+            {
+                "code": "th",
+                "name": "เล่ม"
+            },
+            {
+                "code": "en",
+                "name": "BOOK"
+            }
+        ]
+    },
+    {
+        "code": "BLD",
+        "names": [
+            {
+                "code": "th",
+                "name": "เลา"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "DAY",
+        "names": [
+            {
+                "code": "th",
+                "name": "วัน"
+            },
+            {
+                "code": "en",
+                "name": "DAY"
+            }
+        ]
+    },
+    {
+        "code": "CRC",
+        "names": [
+            {
+                "code": "th",
+                "name": "วง"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "LNE",
+        "names": [
+            {
+                "code": "th",
+                "name": "สาย"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "WK",
+        "names": [
+            {
+                "code": "th",
+                "name": "สัปดาห์"
+            },
+            {
+                "code": "en",
+                "name": "WEEK"
+            }
+        ]
+    },
+    {
+        "code": "LIN",
+        "names": [
+            {
+                "code": "th",
+                "name": "เส้น"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "UNT",
+        "names": [
+            {
+                "code": "th",
+                "name": "หน่วย"
+            },
+            {
+                "code": "en",
+                "name": "UNIT"
+            }
+        ]
+    },
+    {
+        "code": "TUB",
+        "names": [
+            {
+                "code": "th",
+                "name": "หลอด"
+            },
+            {
+                "code": "en",
+                "name": "TUBE"
+            }
+        ]
+    },
+    {
+        "code": "UHS",
+        "names": [
+            {
+                "code": "th",
+                "name": "หลัง"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "YD",
+        "names": [
+            {
+                "code": "th",
+                "name": "หลา"
+            },
+            {
+                "code": "en",
+                "name": "YARD"
+            }
+        ]
+    },
+    {
+        "code": "UCI",
+        "names": [
+            {
+                "code": "th",
+                "name": "หัว"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "OZ",
+        "names": [
+            {
+                "code": "th",
+                "name": "ออนซ์"
+            },
+            {
+                "code": "en",
+                "name": "OUNCE"
+            }
+        ]
+    },
+    {
+        "code": "UCT",
+        "names": [
+            {
+                "code": "th",
+                "name": "อัน"
+            },
+            {
+                "code": "en",
+                "name": "PIECE"
+            }
+        ]
+    },
+    {
+        "code": "DIH",
+        "names": [
+            {
+                "code": "th",
+                "name": "จาน"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "POT",
+        "names": [
+            {
+                "code": "th",
+                "name": "หม้อ"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    },
+    {
+        "code": "GLS",
+        "names": [
+            {
+                "code": "th",
+                "name": "แก้ว"
+            },
+            {
+                "code": "en",
+                "name": ""
+            }
+        ]
+    }
+]
