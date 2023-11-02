@@ -73,5 +73,80 @@
             }
         ],
         "qrtype": 113
+    },
+    {
+        "code": "GBTHAIQR",
+        "logo": "",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "GB - พร้อมเพย์"
+            },
+            {
+                "code": "en",
+                "name": "GB - Promptpay"
+            }
+        ],
+        "qrtype": 131
+    },
+    {
+        "code": "GBTRUEMONEY",
+        "logo": "",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "GB - ทรูมันนี่"
+            },
+            {
+                "code": "en",
+                "name": "GB - True Money"
+            }
+        ],
+        "qrtype": 132
+    },
+    {
+        "code": "GBSHOPEEPAY",
+        "logo": "",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "GB - ช้อปปี้เพย์"
+            },
+            {
+                "code": "en",
+                "name": "GB - Shopee Pay"
+            }
+        ],
+        "qrtype": 133
+    },
+    {
+        "code": "GBALIPAY",
+        "logo": "",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "GB - อาลีเพย์"
+            },
+            {
+                "code": "en",
+                "name": "GB - Ali Pay"
+            }
+        ],
+        "qrtype": 134
+    },
+    {
+        "code": "GBWECHAT",
+        "logo": "",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "GB - วีแชทเพย์"
+            },
+            {
+                "code": "en",
+                "name": "GB - WeChat Pay"
+            }
+        ],
+        "qrtype": 135
     }
 ]
