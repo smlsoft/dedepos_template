@@ -76,7 +76,7 @@
     },
     {
         "code": "GBTHAIQR",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/gb-pp.png",
         "qrnames": [
             {
                 "code": "th",
@@ -136,7 +136,7 @@
     },
     {
         "code": "GBWECHAT",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/wechatpay.png",
         "qrnames": [
             {
                 "code": "th",
