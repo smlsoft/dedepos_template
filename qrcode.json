@@ -91,7 +91,7 @@
     },
     {
         "code": "GBTRUEMONEY",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/truemoney.jpeg",
         "qrnames": [
             {
                 "code": "th",
@@ -106,7 +106,7 @@
     },
     {
         "code": "GBSHOPEEPAY",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/wallet/shopee.png",
         "qrnames": [
             {
                 "code": "th",
@@ -121,7 +121,7 @@
     },
     {
         "code": "GBALIPAY",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/alipay.jpeg",
         "qrnames": [
             {
                 "code": "th",
