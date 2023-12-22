@@ -4,11 +4,37 @@
         "names": [
             {
                 "code": "th",
-                "name": "ร้านอาหาร"
+                "name": "ธุรกิจร้านอาหาร"
             },
             {
                 "code": "en",
-                "name": "Restaurant"
+                "name": "restaurant business"
+            }
+        ]
+    },
+    {
+        "code": "002",
+        "names": [
+            {
+                "code": "th",
+                "name": "ธุรกิจการแพทย์ สุขภาพและความงาม"
+            },
+            {
+                "code": "en",
+                "name": "medical business health and beauty"
+            }
+        ]
+    },
+    {
+        "code": "003",
+        "names": [
+            {
+                "code": "th",
+                "name": "ธุรกิจก่อสร้าง วัสดุก่อสร้าง และพัฒนาอสังหาริมทรัพย์"
+            },
+            {
+                "code": "en",
+                "name": "construction business construction materials and real estate development"
             }
         ]
     }
