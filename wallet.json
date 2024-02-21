@@ -23,5 +23,10 @@
     "code": "DOLFIN",
     "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/wallet/dolfin.png",
     "name": "Dolfin"
+  },
+  {
+    "code": "KPLUSSHOP",
+    "imageuri": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/wallet/kplusshop.png",
+    "name": "KplusShop"
   }
 ]
