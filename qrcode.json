@@ -15,6 +15,21 @@
         "qrtype": 100
     },
     {
+        "code": "KPLUSSHOP",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/kplusshop.jpeg",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "เคพลัสช็อป"
+            },
+            {
+                "code": "en",
+                "name": "K Plus Shop"
+            }
+        ],
+        "qrtype": 100
+    },
+    {
         "code": "LUJENT",
         "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/lugent.jpeg",
         "qrnames": [
