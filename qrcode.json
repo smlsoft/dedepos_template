@@ -163,5 +163,80 @@
             }
         ],
         "qrtype": 135
+    },
+    {
+        "code": "XENDITTHAIQR",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/promptpay.png",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "XENDIT - พร้อมเพย์"
+            },
+            {
+                "code": "en",
+                "name": "XENDIT - Promptpay"
+            }
+        ],
+        "qrtype": 201
+    },
+    {
+        "code": "XENDITTRUEMONEY",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/truemoney.jpeg",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "XENDIT - ทรูมันนี่"
+            },
+            {
+                "code": "en",
+                "name": "XENDIT - True Money"
+            }
+        ],
+        "qrtype": 202
+    },
+    {
+        "code": "XENDITSHOPEEPAY",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/wallet/shopee.png",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "XENDIT - ช้อปปี้เพย์"
+            },
+            {
+                "code": "en",
+                "name": "XENDIT - Shopee Pay"
+            }
+        ],
+        "qrtype": 203
+    },
+    {
+        "code": "XENDITALIPAY",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/alipay.jpeg",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "XENDIT - อาลีเพย์"
+            },
+            {
+                "code": "en",
+                "name": "XENDIT - Ali Pay"
+            }
+        ],
+        "qrtype": 204
+    },
+    {
+        "code": "XENDITWECHAT",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/wechatpay.png",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "XENDIT - วีแชทเพย์"
+            },
+            {
+                "code": "en",
+                "name": "XENDIT - WeChat Pay"
+            }
+        ],
+        "qrtype": 205
     }
 ]
