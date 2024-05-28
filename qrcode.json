@@ -178,5 +178,35 @@
             }
         ],
         "qrtype": 201
+    },
+    {
+        "code": "SMLPROMPTPAY",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/sml.jpeg",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "SML - พร้อมเพย์"
+            },
+            {
+                "code": "en",
+                "name": "SML - Promptpay"
+            }
+        ],
+        "qrtype": 301
+    },
+    {
+        "code": "SMLCREDIT",
+        "logo": "https://raw.githubusercontent.com/smlsoft/dedepos_template/main/img/qrcode/sml.jpeg",
+        "qrnames": [
+            {
+                "code": "th",
+                "name": "SML - เครดิต"
+            },
+            {
+                "code": "en",
+                "name": "SML - Credit"
+            }
+        ],
+        "qrtype": 302
     }
 ]
